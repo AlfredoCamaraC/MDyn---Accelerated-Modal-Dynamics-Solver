@@ -41,7 +41,7 @@ If you use MDyn in your research, please cite the following paper:
 ## Showcase
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/deformation_abaqus_MDyn.png" alt="" width="900">
+  <img src="https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-solver/blob/main/deformation_abaqus_MDyn.png" alt="" width="900">
 </p>
 <p align="center">
   Comparison between the deformation induced by a vehicle crossing the Queensferry Bridge (Scotland) using ABAQUS and MDyn.
@@ -67,7 +67,7 @@ If you use MDyn in your research, please cite the following paper:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/displacements_footbridge_resonance.png" alt="" width="900">
+  <img src="https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-solver/blob/main/displacements_footbridge_resonance.png" alt="" width="900">
 </p>
 <p align="center">
 Vertical displacement at midspan</p>
