@@ -36,8 +36,8 @@ If you use XLB in your research, please cite the following paper:
 ## Showcase
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/airfoil.gif" width="800">
+  <img src="https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-Solver/blob/main/MDyn_LQS_resultsTMD.gif" width="800">
 </p>
 <p align="center">
-  On GPU in-situ rendering using <a href="https://github.com/loliverhennigh/PhantomGaze">PhantomGaze</a> library (no I/O). Flow over a NACA airfoil using KBC Lattice Boltzmann Simulation with ~10 million cells.
+  Linear quasi-steady analysis of the wind-induced response in a footbridge with a TMD at the centre.
 </p>
