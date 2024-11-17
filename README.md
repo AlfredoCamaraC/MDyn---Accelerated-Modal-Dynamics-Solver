@@ -25,7 +25,7 @@ The use of MDyn to simulate the wind-vehicle-bridge interaction under skew winds
 
 ## Citing MDyn
 
-If you use XLB in your research, please cite the following paper:
+If you use MDyn in your research, please cite the following paper:
 
 ```
 @article{camara2021,
@@ -39,6 +39,16 @@ If you use XLB in your research, please cite the following paper:
 }
 ```
 ## Showcase
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/deformation_abaqus_MDyn.png" alt="" width="900">
+</p>
+<p align="center">
+  Comparison between the deformation induced by a vehicle crossing the Queensferry Bridge (Scotland) using ABAQUS and MDyn.
+</p>
+
+<br>
+
 
 <p align="center">
   <img src="https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-Solver/blob/main/MDyn_LQS_resultsTMD.gif" width="800">
@@ -57,7 +67,7 @@ If you use XLB in your research, please cite the following paper:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/XLB_diff.png" alt="" width="900">
+  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/displacements_footbridge_resonance.png" alt="" width="900">
 </p>
 <p align="center">
 Vertical displacement at midspan</p>
