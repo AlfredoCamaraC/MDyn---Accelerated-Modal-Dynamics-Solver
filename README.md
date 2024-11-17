@@ -46,3 +46,18 @@ If you use XLB in your research, please cite the following paper:
 <p align="center">
   Linear quasi-steady analysis of the wind-induced response in a footbridge with a TMD at the centre.
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-Solver/blob/main/MDyn_resonant_pedestrian_footbridge.gif" width="800">
+</p>
+<p align="center">
+  Vibration of a footbridge under the action of a resonant pedestrian.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/autodesk/xlb/main/assets/XLB_diff.png" alt="" width="900">
+</p>
+<p align="center">
+Vertical displacement at midspan</p>
