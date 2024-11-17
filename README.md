@@ -1,3 +1,8 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<p align="center">
+  <img src="[https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-Solver/blob/main/mdyn_logo.png](https://github.com/AlfredoCamaraC/MDyn---Accelerated-Modal-Dynamics-Solver/blob/main/mdyn_logo.png)" alt="" width="300">
+</p>
+
 # MDyn---Accelerated-Modal-Dynamics-Solver
 MDyn is a fast modal superposition analysis software designed to solve structural dynamics problems involving wind, pedestrians, vehicles, trains, ... and their interaction.
 
